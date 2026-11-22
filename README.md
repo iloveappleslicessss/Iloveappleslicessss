@@ -6,8 +6,7 @@ https://appllee.carrd.co/
 
 ✦·┈๑⋅⋯             ⋯⋅๑┈·✦
 
-$\large\textcolor{#FF0000}
-{\textf{aaaaaa}}$
+$\large\textcolor{#FF0000}{\textf{aaaaaa}}$
 
 
 this is my alt account, main in bio.
